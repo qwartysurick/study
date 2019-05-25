@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+header{
+     background-image: url(./Vector\ Smart\ Object@1X.png);
+background-repeat: no-repeat;
+background-position: center;
+margin-bottom: 40px;
+
+}
+.WRAPPER{
+    max-width:320px; 
+    margin: 0 auto;
+    padding: 30px 0 120px 0 ;
+}
+nav{
+    display: flex;
+    flex-direction: column;
+    flex-direction: column-reverse;
+    align-items: center;
+}
+.register{
+    display: flex;
+    margin-bottom: 123px;
+}
+li{
+    list-style: none;
+}
+.logo{
+    font-family: 'Montserrat', sans-serif;
+    }
+    
+
+    
+.rar, .ror{
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+.login{
+    margin-right: 30px;
+}
+.ror{
+    border: solid grey;
+    border-radius: 40px; 
+
+}
+.lol{
+    font-size: 30px;
+    text-align: center;
+color:white ;
+margin-bottom: 25px;
+font-family: 'Montserrat', sans-serif;
+}
+.lal{
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: white;
+    
+}
+.trer{
+border: solid transparent;
+background-color: crimson;
+border-radius: 40px;
+
+}
+.twew{
+    text-align: center;
+}
+.pop{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+}
+.ioi{
+    
+}
+.iai{
+    background-image: url(./Layer\ 6@1X.png);
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+position: relative;
+margin: auto;
+}
+ h2{
+    width: 36px;
+    height: 36px;
+    background-color: red;
+border-radius: 50%;
+position: absolute;
+right:0 ;
+bottom: 0;
+border: 3px  solid white;
+background-image: url(./Shape\ 128@1X.png);
+background-repeat: no-repeat;
+background-position: center;
+}
+.Hunter{
+    text-align: center;
+}
+.Chicago{
+    text-align: center;
+    color:rgba rgb(0, 0, 0, 150);
+    
+}
+.ewer{
+    background-image: url(./Layer\ 7@1X.png);
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    position:relative ;
+    margin: auto;
+}
+.tweworer{
+    width: 36px;
+    height: 36px;
+    background-color: rgb(14, 189, 14);
+    border-radius: 50%;
+    position: absolute;
+    right:0 ;
+    bottom: 0;
+    border: 3px solid white;
+    background-image: url(./Shape\ 153@1X.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.qwer  {
+    text-align: center;
+}
+.kokkak{
+    background-image: url(./Layer\ 8@1X.png);
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    position: relative;
+    margin: auto;
+}
+.kakkuk{
+    width: 36px;
+    height: 36px;
+    background-color: yellow;
+    border-radius: 50%;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    border: 3px solid white;
+    background-image: url(./Shape\ 155@1X.png);
+background-repeat: no-repeat;
+background-position: center;
+}
+.teryui {
+    margin : auto;
+}
+@media (min-width :1000px ) ,(max-width: 320px){
+    header{
+width: 100%;
+background-image: url(./Vector\ Smart\ Object@2X.png);
+    
+}
